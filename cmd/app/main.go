@@ -8,7 +8,7 @@ import (
 
 	"github.com/seu-usuario/meu-projeto-go/internal/fibonacci"
 	"github.com/seu-usuario/meu-projeto-go/internal/hello"
-	"github.com/seu-usuario/meu-projeto-go/internal/hello"
+	"github.com/seu-usuario/meu-projeto-go/internal/anamnese"
 )
 
 // Função principal do programa
