@@ -8,6 +8,7 @@ import (
 
 	"github.com/seu-usuario/meu-projeto-go/internal/fibonacci"
 	"github.com/seu-usuario/meu-projeto-go/internal/hello"
+	"github.com/seu-usuario/meu-projeto-go/internal/hello"
 )
 
 // Função principal do programa
@@ -30,4 +31,12 @@ func main() {
 
 	// Demonstração: imprimir a sequência completa até n
 	fibonacci.PrintSequence(n)
+
+	func main() {
+	nome := "re"
+	idade := 33
+	peso := 100.0
+	altura := 1.90
+
+	anamnese.MostrarFicha(nome, idade, peso, altura)
 }
