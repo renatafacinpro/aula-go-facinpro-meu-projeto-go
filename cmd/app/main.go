@@ -38,7 +38,7 @@ func main() {
 
 	// Demonstração: imprimir a sequência completa até n
 	fibonacci.PrintSequence(n)
-
+}
 	func main() {
 	nome := "re"
 	idade := 33
